@@ -39,5 +39,3 @@ go_terms_DFD <- function(count_matrix, DFD_path, GO_path, Organism)
     write.table(GO_total,filename2, quote = F, col.names = F, row.names = F,sep = "\t")
   }
 }
-
-go_terms_DFD("/home/loukos/Desktop/phd/scripttogit/zeta_log_table_scale.txt", "/home/loukos/Desktop/encode/DFDs2/DFDs/total/", "/home/loukos/Desktop/", "hsapiens")
