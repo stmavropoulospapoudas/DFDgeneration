@@ -146,6 +146,3 @@ dfd_Cluster <- function(genome_cover_percentage,avg_dfd_length,avg_genes_per_dfd
   output <- list(model = bstTree, RMSE = RMSEt, R2 = R2t,MAE = MAEt, AUC = AUCt, cluster_genome_cover = cluster_genome_cover, cluster_chromosome_cover = cluster_chromosome_cover)
   return(output)
 }
-
-BoostResults <- dfd_Cluster(descriptives$cover_percentage, descriptives$dfd_num, descriptives$gene_num, descriptives$tot_chrom_cover_percentage, "/home/loukos/Desktop/phd/major_cell_type.txt", "/home/loukos/Desktop/", 1, "/home/loukos/Desktop/phd/expmat.txt")
-BoostResults <- dfd_Cluster(descriptives$cover_percentage, descriptives$dfd_num, descriptives$gene_num, descriptives$tot_chrom_cover_percentage, "/home/loukos/Desktop/phd/major_cell_type.txt", "/home/loukos/Desktop/")
