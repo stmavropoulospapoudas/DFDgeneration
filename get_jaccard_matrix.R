@@ -1,5 +1,3 @@
-
-
 get_jaccard_matrix <- function(count_matrix, GO_terms_path)
 {
   ####function for jaccard similarity
@@ -34,10 +32,3 @@ get_jaccard_matrix <- function(count_matrix, GO_terms_path)
   jaccard_similarity_matrix = jaccard_similarity_matrix[,-1]
 }  
   
-jaccard_similarity_matrix <- get_jaccard_matrix("/home/loukos/Desktop/phd/scripttogit/zeta_log_table_scale.txt", "/home/loukos/Desktop/encode/DFDs2/DFDs/GO_terms/")
-
-
-
-
-
-
