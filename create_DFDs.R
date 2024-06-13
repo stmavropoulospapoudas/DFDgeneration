@@ -152,5 +152,3 @@ create_DFDs <- function(count_matrix_file, breakpoint_path, DFD_path, chromosome
    n = n + 1
   }
 }
-
-create_DFDs("/home/loukos/Desktop/phd/scripttogit/zeta_log_table_scale_demo.txt","/home/loukos/Desktop/phd/scripttogit/breakpoints/","/home/loukos/Desktop/phd/scripttogit/DFDs/", c("1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","X"))
