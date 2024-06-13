@@ -212,5 +212,3 @@ DFD_descriptives <- function(num_of_experiments, chrom_length_path, chromosome_l
   return(output)
 }
 
-
-descriptives <- DFD_descriptives(106, "/home/loukos/Desktop/encode/ncbi_g38_human_chromosome_lengths.txt", c("1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","X"), "/home/loukos/Desktop/encode/DFDs2/DFDs/total/", "/home/loukos/Desktop/", "/home/loukos/Desktop/encode/zeta_log_table_scale.txt", "/home/loukos/Desktop/phd/major_cell_type.txt", 1.5)
