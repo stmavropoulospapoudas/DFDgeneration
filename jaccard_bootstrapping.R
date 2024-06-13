@@ -57,6 +57,3 @@ jaccard_bootstrapping <- function(jaccard_similarity_matrix, categories_index, n
   pvalue_vector = as.data.frame(rbind(categories, expected_similarity, observed_similarity, pvalue_vector))
   return(pvalue_vector)
 }
-
-pvalues = jaccard_bootstrapping(jaccard_similarity_matrix, "/home/loukos/Desktop/phd/major_cell_type.txt", 1000)
-pvalues = jaccard_bootstrapping(jaccard_similarity_matrix, "/home/loukos/Desktop/phd/major_cell_type.txt")
