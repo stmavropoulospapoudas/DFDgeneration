@@ -1,6 +1,6 @@
-convert_to_bed <-function(DFD_path, bed_path)
+convert_to_bed <-function(DFD_path, bed_path, number_of_files)
 {
-  for(i in seq(2,107,1))
+  for(i in seq(1,number_of_files,1))
   {
     filename = paste(DFD_path,i,"_tot.txt",sep="")
     data = read.delim(filename, sep=" ")
@@ -13,4 +13,3 @@ convert_to_bed <-function(DFD_path, bed_path)
   }
 }
 
-convert_to_bed("/home/loukos/Desktop/encode/DFDs2/DFDs/total/", "/home/loukos/Desktop/")
