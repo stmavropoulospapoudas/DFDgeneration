@@ -58,8 +58,6 @@ create_zeta_log_table <- function(raw_count_file, gene_names_file, count_table_p
   write.table(dataset_2, filename, quote = FALSE, row.names = F, sep = "\t")
 }
 
-create_zeta_log_table("/home/loukos/Desktop/encode/Supplemental_table_S2.csv", "/home/loukos/Desktop/encode/encode_genes.txt", "/home/loukos/Desktop/")
-data<-read.delim("/home/loukos/Desktop/zeta_log_table_scale.txt", sep="\t", header = TRUE)
 
 
 
