@@ -16,5 +16,3 @@ deg_enrichments_DFDs <- function(DEG_DFD_Enrichment_path, categories_index)
   output <- list(all_enrichments_pval = a, significant_enrichments_pval = b)
   return(output) 
 }
-
-enrichment_pval <- deg_enrichments_DFDs("/home/loukos/Desktop/encode/DFDs2/DFDs/total2/results_sed2.txt", "/home/loukos/Desktop/phd/major_cell_type.txt")
