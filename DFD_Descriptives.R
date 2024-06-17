@@ -5,20 +5,21 @@ DFD_descriptives <- function(num_of_experiments, chrom_length_path, chromosome_l
   library(ggplot2)
   chrom_lengths = read.delim(chrom_length_path, sep="\t")
   total_genome_length = sum(chrom_lengths$length)
-  avg_dfd_length = vector(mode = "double", length = 107)
-  dfd_num = vector(mode = "double", length = 107)
-  genome_cover_percentage = vector(mode = "double", length = 107)
-  chrom_cover_percentage = vector(mode = "double", length = 23)
-  tot_chrom_cover_percentage = matrix(0,nrow = 107, ncol = 23)
+  avg_dfd_length = vector(mode = "double", length = num_of_experiments)
+  dfd_num = vector(mode = "double", length = num_of_experiments)
+  genome_cover_percentage = vector(mode = "double", length = num_of_experiments)
+  chrom_cover_percentage = vector(mode = "double", length = length(as.factor(chromosome_levels)))
+  tot_chrom_cover_percentage = matrix(0,nrow = num_of_experiments, ncol = length(as.factor(chromosome_levels)))
   #dfd_per_chrom = vector(mode = "double", length = 106)
   data_chrom_init = table(as.factor(chromosome_levels))
   sm1 = data_chrom_init - 1
-  gene_number = vector(mode = "double", length = 107)
-  avg_genes_per_dfd = vector(mode = "double", length = 107)
-  for(i in seq(2,num_of_experiments+1,1))
+  gene_number = vector(mode = "double", length = num_of_experiments+1)
+  avg_genes_per_dfd = vector(mode = "double", length = num_of_experiments+1)
+  for(i in seq(1,num_of_experiments,1))
   {
     filename = paste(DFD_path,i,"_tot.txt",sep="")
-    data = read.delim(filename, sep=" ")
+    data = read.delim(filename, sep=" ", header = T)
+    data = data[,1:5]
     #change columns first coords then gene start end
     data_tmp = data.frame(data[,c(1,4,5)],stringsAsFactors = FALSE)
     data_tmp$chromosome = paste("chr",data_tmp$chromosome,sep = "")
@@ -52,11 +53,10 @@ DFD_descriptives <- function(num_of_experiments, chrom_length_path, chromosome_l
       gene_number[i] = gene_number[i] + ((data$end[k] - data$start[k]))
     }
   }
-  dfd_per_chrom = sm1/106
+  dfd_per_chrom = sm1/num_of_experiments
   dfd_num = dfd_num[dfd_num!=0]
   gene_number = gene_number[gene_number!=0]
   avg_genes_per_dfd = gene_number / dfd_num
-  tot_chrom_cover_percentage = tot_chrom_cover_percentage[-1,]
   
   summary(dfd_num)
   filename_hist1 = paste0(plot_path,"DFD_per_experiment_histogram.png")
@@ -88,16 +88,17 @@ DFD_descriptives <- function(num_of_experiments, chrom_length_path, chromosome_l
   
   
   data2<-read.delim(count_matrix_file, sep="\t")
-  gene_number <- vector(mode="integer", length = 107)
-  deg_number <- vector(mode="integer", length = 107)
-  dfd_number <- vector(mode="integer", length = 107)
-  for(i in seq(2,107,1))
+  data2 = data2[,-1]
+  gene_number <- vector(mode="integer", length = num_of_experiments)
+  deg_number <- vector(mode="integer", length = num_of_experiments)
+  dfd_number <- vector(mode="integer", length = num_of_experiments)
+  for(i in seq(1,num_of_experiments,1))
   {
-    progress = paste("This is experiment: ",i-1," / ",num_of_experiments,sep="")
+    progress = paste("This is experiment: ",i," / ",num_of_experiments,sep="")
     print(progress)
     #read DFDs of each sequencing experiment
     filename = paste(DFD_path,i,"_tot.txt",sep="")
-    data = read.delim(filename, sep=" ")
+    data = read.delim(filename, sep=" ", header = T)
     GO_total = c()
     gene_list <- list()
     DEGS_list <- list()
@@ -121,9 +122,6 @@ DFD_descriptives <- function(num_of_experiments, chrom_length_path, chromosome_l
     gene_number[i] = length(gene_list)
     deg_number[i] = length(DEGS_list)
   }
-  dfd_number = dfd_number[-1]
-  deg_number = deg_number[-1]
-  gene_number = gene_number[-1]
   
   summary(dfd_number)
   summary(gene_number)
@@ -157,7 +155,7 @@ DFD_descriptives <- function(num_of_experiments, chrom_length_path, chromosome_l
           main = "Odds Ratio Distribution by Category") 
   mtext(paste("Kruskal-Wallis p-value:", odds_rat_pval), xpos = 0.2, ypos = max(or_cell_type$odds_ratio) + 0.5, adj = 1)
   dev.off()
-
+  
   #######Boxplot genome cover percentage per category####
   genome_cover_percentage_df = as.data.frame(cbind(type_of_tissue, genome_cover_percentage))
   colnames(genome_cover_percentage_df) = c("type_of_tissue", "genome_cover_percentage")
@@ -207,8 +205,7 @@ DFD_descriptives <- function(num_of_experiments, chrom_length_path, chromosome_l
     m = m + 1
   }
   
-   
+  
   output <- list(dfd_num = dfd_num, gene_num = gene_num, deg_num = deg_num, cover_percentage = genome_cover_percentage, tot_chrom_cover_percentage = tot_chrom_cover_percentage, tot_chrom_cover_percentage_pval = pvalue, odds_rat = odds_rat, odds_rat_pval = odds_rat_pval, tot_chrom_cover_percentage = tot_chrom_cover_percentage)
   return(output)
 }
-
