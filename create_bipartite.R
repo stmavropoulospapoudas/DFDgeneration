@@ -1,7 +1,3 @@
-count_matrix = "/home/loukos/Desktop/encode/zeta_log_table_scale.txt"
-DFD_path = "/home/loukos/Desktop/encode/DFDs2/DFDs/total/"
-Organism = "hsapiens"
-bipartite_path = "/home/loukos/Desktop/"
 
 create_bipartite <- function(count_matrix, DFD_path, Organism = "hsapiens", bipartite_path)
 {
@@ -47,5 +43,4 @@ create_bipartite <- function(count_matrix, DFD_path, Organism = "hsapiens", bipa
   }
 }
 
-create_bipartite("/home/loukos/Desktop/phd/scripttogit/zeta_log_table_scale_demo.txt", "/home/loukos/Desktop/phd/scripttogit/DFDs/", "hsapiens", "/home/loukos/Desktop/phd/scripttogit/bipartites/")
   
