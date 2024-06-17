@@ -37,5 +37,3 @@ plot_bipartite <- function(count_matrix, bipartite_path, degree_trim = 5, plot_p
 
 }
   
-plot_bipartite("/home/loukos/Desktop/phd/scripttogit/zeta_log_table_scale.txt", "/home/loukos/Desktop/encode/DFDs2/DFDs/bipartite/", 8, "/home/loukos/Desktop/",8000, 8000)
-plot_bipartite("/home/loukos/Desktop/phd/scripttogit/zeta_log_table_scale_demo.txt", "/home/loukos/Desktop/phd/scripttogit/bipartites/", 8, "/home/loukos/Desktop/",8000, 8000)
