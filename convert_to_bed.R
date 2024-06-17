@@ -9,7 +9,6 @@ convert_to_bed <-function(DFD_path, bed_path, number_of_files)
     data_tmp$chromosome = paste("chr",data_tmp$chromosome,sep = "")
     colnames(data_tmp) <- c("chrom","chromStart","chromEnd")
     filenamew = paste0(bed_path,"DFDs_",i,".bed")
-    write.table(data_tmp,filenamew,col.names = F, quote = F)
+    write.table(data_tmp,filenamew,col.names = F, quote = F, row.names = F, sep = "\t")
   }
 }
-
