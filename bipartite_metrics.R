@@ -123,6 +123,3 @@ bipartite_metrics <- function(count_matrix, bipartite_path, categories_index, pl
 
 }
 
-bmetrics <- bipartite_metrics("/home/loukos/Desktop/phd/scripttogit/zeta_log_table_scale_demo.txt", "/home/loukos/Desktop/phd/scripttogit/bipartites/", "/home/loukos/Desktop/phd/scripttogit/major_cell_type_demo.txt", "/home/loukos/Desktop")
-
-
