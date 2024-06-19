@@ -1,3 +1,5 @@
+
+
 get_jaccard_matrix <- function(count_matrix, GO_terms_path)
 {
   ####function for jaccard similarity
@@ -9,15 +11,15 @@ get_jaccard_matrix <- function(count_matrix, GO_terms_path)
   
   data2<-read.delim(count_matrix, sep="\t")
   ############get grid all Vs all similarity
-  jaccard_similarity_matrix <- matrix(0,nrow = length(data2)-4, ncol = length(data2)-4)
-  for(i in seq(2,length(data2)-4,1))
+  jaccard_similarity_matrix <- matrix(0,nrow = length(data2)-5, ncol = length(data2)-5)
+  for(i in seq(1,length(data2)-5,1))
   {
-    progress = paste("This is experiment: ",i-1,"/",length(data2)-5,sep="")
+    progress = paste("This is experiment: ",i,"/",length(data2)-5,sep="")
     print(progress)
     #read DFDs of each sequencing experiment
     filename = paste(GO_terms_path,"GO_terms_",i,".txt",sep="")
     data_go = read.delim(filename)
-    for(j in seq(2,length(data2)-4,1))
+    for(j in seq(1,length(data2)-5,1))
     {
       if(i != j)
       {
@@ -27,8 +29,7 @@ get_jaccard_matrix <- function(count_matrix, GO_terms_path)
       }
     }
   }  
-  #delete zero first rows and columns
-  jaccard_similarity_matrix = jaccard_similarity_matrix[-1,]
-  jaccard_similarity_matrix = jaccard_similarity_matrix[,-1]
+  return(jaccard_similarity_matrix)
 }  
   
+
