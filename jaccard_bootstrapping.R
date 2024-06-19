@@ -6,7 +6,6 @@ jaccard_bootstrapping <- function(jaccard_similarity_matrix, categories_index, n
   #bind cell type to dataframe/matrix
   df_jaccard = as.data.frame(jaccard_similarity_matrix)
   df_jaccard = cbind(df_jaccard,type_of_tissue)
-  df_jaccard = rbind(df_jaccard, type_of_tissue)
   #colnames(df_jaccard) = df_jaccard$type_of_tissue
   categories = levels(as.factor(type_of_tissue))
   pvalue_vector <- vector(mode = "double", length = length(categories))
@@ -15,15 +14,21 @@ jaccard_bootstrapping <- function(jaccard_similarity_matrix, categories_index, n
   m = 1
   for(k in categories)
   {
+    print(k)
     df_jaccard_tmp = df_jaccard[(df_jaccard$type_of_tissue == k),]
-    df_jaccard_tmp = df_jaccard_tmp[, !colSums(df_jaccard_tmp == k)]
-    #remove last line wich will be text character category values
-    df_jaccard_tmp = df_jaccard_tmp[-dim(df_jaccard_tmp),]
-    df_jaccard_tmp = df_jaccard_tmp[,-dim(df_jaccard_tmp)]
+    df_jaccard_tmp = rbind(df_jaccard_tmp, type_of_tissue)
+    #remove last row wich will be text character category values
+    df_jaccard_tmp = df_jaccard_tmp[, !(names(df_jaccard_tmp) %in% "type_of_tissue")]
+    last_row = df_jaccard_tmp[nrow(df_jaccard_tmp),]
+    select_columns_index = which(last_row == k)
+    colnamesjac = colnames(df_jaccard_tmp)
+    df_jaccard_tmp = df_jaccard_tmp[,select_columns_index]
+    colnames(df_jaccard_tmp) = colnamesjac[select_columns_index]
+    df_jaccard_tmp = df_jaccard_tmp[-nrow(df_jaccard_tmp),]
     num_jaccard = dim(df_jaccard_tmp)[1] * dim(df_jaccard_tmp)[2]
     median_jaccard = median(as.double(as.matrix(df_jaccard_tmp)))
     simulated_jaccard_matrix <- vector(mode = "double",length = num_jaccard)
-    simulated_jaccard_median <- vector(mode = "double",length = 10000)
+    simulated_jaccard_median <- vector(mode = "double",length = num_permutations)
     for(i in seq(1,num_permutations,1))
     {
       print("This is Simulation: ")
@@ -44,10 +49,10 @@ jaccard_bootstrapping <- function(jaccard_similarity_matrix, categories_index, n
       }
       simulated_jaccard_median[i] = median(as.double(simulated_jaccard_matrix))
     }  
-    pvalue=length(which(simulated_jaccard_median>median_jaccard))/10000
+    pvalue=length(which(simulated_jaccard_median>median_jaccard))/num_permutations
     if(pvalue > 0.95)
     {
-      pvalue=-length(which(simulated_jaccard_median<median_jaccard))/10000
+      pvalue=-length(which(simulated_jaccard_median<median_jaccard))/num_permutations
     }
     pvalue_vector[m] = pvalue
     expected_similarity[m] = mean(simulated_jaccard_median)
