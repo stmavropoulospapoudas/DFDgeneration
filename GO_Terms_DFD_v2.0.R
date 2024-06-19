@@ -4,9 +4,9 @@ go_terms_DFD <- function(count_matrix, DFD_path, GO_path, Organism)
   print("Now getting GO enrichments...")
   library(gprofiler2)
   data2<-read.delim(count_matrix, sep="\t")
-  for(i in seq(2,length(data2)-4,1))
+  for(i in seq(1,length(data2)-5,1))
   {
-    progress = paste0("Now doing experiment: ",i-1)
+    progress = paste0("Now doing experiment: ",i)
     print(progress)
     #read DFDs of each sequencing experiment
     filename = paste(DFD_path,i,"_tot.txt",sep="")
@@ -35,7 +35,7 @@ go_terms_DFD <- function(count_matrix, DFD_path, GO_path, Organism)
       }
       
     }
-    filename2 = paste(GO_path,"GO_terms_",i-1,".txt",sep = "")
+    filename2 = paste(GO_path,"GO_terms_",i,".txt",sep = "")
     write.table(GO_total,filename2, quote = F, col.names = F, row.names = F,sep = "\t")
   }
 }
