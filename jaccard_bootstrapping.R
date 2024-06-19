@@ -50,7 +50,7 @@ jaccard_bootstrapping <- function(jaccard_similarity_matrix, categories_index, n
       simulated_jaccard_median[i] = median(as.double(simulated_jaccard_matrix))
     }  
     pvalue=length(which(simulated_jaccard_median>median_jaccard))/num_permutations
-    if(pvalue > 0.95)
+    if(pvalue >= 0.95)
     {
       pvalue=-length(which(simulated_jaccard_median<median_jaccard))/num_permutations
     }
