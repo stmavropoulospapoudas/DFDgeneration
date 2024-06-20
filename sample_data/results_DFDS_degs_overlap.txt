@@ -1,0 +1,70 @@
+Enrichment of overlap= 1.07442
+Calculating significance for 1000 permutations. (Grab a coffee, this may take a while...)
+permutations=100
+permutations=200
+permutations=300
+permutations=400
+permutations=500
+permutations=600
+permutations=700
+permutations=800
+permutations=900
+permutations=1000
+File1= DFDs_1.bed File2= degs_1.bed Ratio1= 0.587223 Ratio= 0.630926 Enrichment= 1.07442 p-value= 0.049
+finished run of DFDs_1.bed degs_1.bed
+Enrichment of overlap= 1.07745
+Calculating significance for 1000 permutations. (Grab a coffee, this may take a while...)
+permutations=100
+permutations=200
+permutations=300
+permutations=400
+permutations=500
+permutations=600
+permutations=700
+permutations=800
+permutations=900
+permutations=1000
+File1= DFDs_2.bed File2= degs_2.bed Ratio1= 0.587223 Ratio= 0.632705 Enrichment= 1.07745 p-value= 0.042
+finished run of DFDs_2.bed degs_2.bed
+Enrichment of overlap= 1.08536
+Calculating significance for 1000 permutations. (Grab a coffee, this may take a while...)
+permutations=100
+permutations=200
+permutations=300
+permutations=400
+permutations=500
+permutations=600
+permutations=700
+permutations=800
+permutations=900
+permutations=1000
+File1= DFDs_3.bed File2= degs_3.bed Ratio1= 0.587223 Ratio= 0.63735 Enrichment= 1.08536 p-value= 0.022
+finished run of DFDs_3.bed degs_3.bed
+Enrichment of overlap= 1.0287
+Calculating significance for 1000 permutations. (Grab a coffee, this may take a while...)
+permutations=100
+permutations=200
+permutations=300
+permutations=400
+permutations=500
+permutations=600
+permutations=700
+permutations=800
+permutations=900
+permutations=1000
+File1= DFDs_4.bed File2= degs_4.bed Ratio1= 0.587223 Ratio= 0.604076 Enrichment= 1.0287 p-value= 0.3
+finished run of DFDs_4.bed degs_4.bed
+Enrichment of overlap= 1.03757
+Calculating significance for 1000 permutations. (Grab a coffee, this may take a while...)
+permutations=100
+permutations=200
+permutations=300
+permutations=400
+permutations=500
+permutations=600
+permutations=700
+permutations=800
+permutations=900
+permutations=1000
+File1= DFDs_5.bed File2= degs_5.bed Ratio1= 0.587223 Ratio= 0.609284 Enrichment= 1.03757 p-value= 0.188
+finished run of DFDs_5.bed degs_5.bed
