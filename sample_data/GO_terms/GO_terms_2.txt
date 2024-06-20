@@ -1,0 +1,1513 @@
+heterocycle biosynthetic process
+regulation of nucleobase-containing compound metabolic process
+organic cyclic compound biosynthetic process
+negative regulation of developmental process
+aromatic compound biosynthetic process
+nucleobase-containing compound biosynthetic process
+RNA biosynthetic process
+cytoplasm
+nucleoplasm
+transferase activity, transferring phosphorus-containing groups
+transferase activity
+phosphotransferase activity, alcohol group as acceptor
+kinase activity
+adenyl ribonucleotide binding
+protein binding
+protein kinase activity
+adenyl nucleotide binding
+purine ribonucleotide binding
+carbohydrate derivative binding
+ATP binding
+ribonucleotide binding
+purine nucleotide binding
+catalytic activity
+Overfolding of the superior helices
+hsa-miR-137
+Factor: E2F-2; motif: GCGCGCGCGYW; match class: 1
+Factor: E2F-2; motif: GCGCGCGCNCS; match class: 1
+Factor: ZF5; motif: GSGCGCGR; match class: 1
+Factor: RNF96; motif: BCCCGCRGCC; match class: 1
+Factor: E2F-4; motif: SNGGGCGGGAANN; match class: 1
+Factor: RUNX2; motif: NRACCGCAAACCGCAN; match class: 1
+Factor: AP-2alpha; motif: NGCCYSNNGSN
+Factor: ZF5; motif: GGSGCGCGS; match class: 1
+Factor: E2F4; motif: YCCCGCCNCNNSSNNSNN; match class: 1
+Factor: AP-2gamma:Elk-1; motif: NGCCKNRGGSGRCGGAAGTG; match class: 1
+Factor: E2F-1; motif: WWTGGCGCCAAA; match class: 1
+Factor: E2F; motif: GGCGSG; match class: 1
+Factor: ZF5; motif: NRNGNGCGCGCWN
+Factor: ZF5; motif: NRNGNGCGCGCWN; match class: 1
+Factor: E2F-2; motif: NWTTTGGCGCCAWWNN; match class: 1
+Factor: E2F-1; motif: WWTGGCGCCAAA
+Factor: Hey1; motif: NGCRCGYGYN; match class: 1
+Factor: E2F-2; motif: GCGCGCGCGYW
+Factor: ZF5; motif: GGSGCGCGS
+Factor: CP2; motif: NRRRCCGGCYNRARCCGGNN; match class: 1
+Factor: E2F-2; motif: NWTTTGGCGCCAWWNN
+Factor: Egr-1; motif: NGCGTGCGY
+Factor: E2F-1; motif: NKTSSCGC
+Factor: ZNF142; motif: SNSCGCCCGCCCGCSCSS
+catabolic process
+organic substance catabolic process
+cytoplasm
+cytosol
+endomembrane system
+Cul3-RING ubiquitin ligase complex
+catalytic complex
+inclusion body
+galectin complex
+nucleoplasm
+glutathione hydrolase activity
+leukotriene-C(4) hydrolase
+peptidyltransferase activity
+lung; alveolar cells[≥Medium]
+Renal cell carcinoma
+Factor: GLI; motif: MCVNNGACCACCCAV
+Factor: ZNF787; motif: TGCCTCAGTTTMCCN
+Factor: Elk-1; motif: RCCGGAAGTGN
+Factor: CP2; motif: NNNNCCAGNCNN
+Factor: PAX5; motif: RNGCGTGACCNN
+Factor: ZNF295; motif: NYCYCWGCYYCCCN
+Factor: pax-6; motif: NYACGCNYSANYGMNCN
+Factor: AP-2gamma; motif: NSCCYNNRGSN; match class: 1
+22q11 2 copy number variation syndrome
+PA700-20S-PA28 complex
+PA28-20S proteasome
+response to stimulus
+multicellular organismal process
+cellular response to stimulus
+biological regulation
+negative regulation of nitrogen compound metabolic process
+organonitrogen compound metabolic process
+regulation of biological process
+response to stress
+signaling
+cell-cell signaling
+cell communication
+cell surface receptor signaling pathway
+protein catabolic process
+signal transduction
+catabolic process
+cytoplasm
+nucleoplasm
+endomembrane system
+organelle
+membrane-bounded organelle
+cytosol
+intracellular organelle
+organelle lumen
+membrane-enclosed lumen
+intracellular organelle lumen
+proteasome complex
+endopeptidase complex
+microtubule cytoskeleton
+catalytic complex
+protein binding
+endopeptidase regulator activity
+peptidase inhibitor activity
+peptidase regulator activity
+endopeptidase inhibitor activity
+enzyme inhibitor activity
+cysteine-type endopeptidase inhibitor activity
+molecular function inhibitor activity
+X-linked inheritance
+X-linked recessive inheritance
+Mitotic G2-G2/M phases
+Cyclin A:Cdk2-associated events at S phase entry
+Regulation of PTEN stability and activity
+S Phase
+Cell Cycle, Mitotic
+G2/M Transition
+Metabolism of polyamines
+Cell Cycle
+UCH proteinases
+The role of GTSE1 in G2/M progression after G2 checkpoint
+Downstream signaling events of B Cell Receptor (BCR)
+SCF(Skp2)-mediated degradation of p27/p21
+Signaling by NOTCH4
+Factor: MAZ; motif: GGGMGGGGSSGGGGGGGGGGGG; match class: 1
+regulation of biological process
+biological regulation
+developmental process
+multicellular organismal process
+multicellular organism development
+cellular response to stimulus
+anatomical structure development
+organonitrogen compound metabolic process
+regulation of cellular process
+positive regulation of biological process
+cell differentiation
+cellular developmental process
+response to stimulus
+signaling
+cell communication
+negative regulation of nitrogen compound metabolic process
+signal transduction
+positive regulation of cellular process
+regulation of nitrogen compound metabolic process
+cytoplasm
+nucleoplasm
+membrane
+protein binding
+hsa-miR-4418
+hsa-miR-509-5p
+hsa-miR-509-3-5p
+XRCC1-LIG3-PNK-TDP1 complex
+nervous system development
+cytoplasm
+extracellular region
+microtubule cytoskeleton
+cytoskeleton
+melanosome
+pigment granule
+nucleoplasm
+vesicle
+protein binding
+regulation of microvillus assembly
+DNA metabolic process
+regulation of microvillus organization
+nucleoplasm
+microtubule
+cytoskeleton
+postsynaptic actin cytoskeleton
+cellular ketone body metabolic process
+ketone body metabolic process
+negative regulation of mesenchymal stem cell differentiation
+cytosol
+tonsil; non-germinal center cells[≥Low]
+regulation of response to stimulus
+regulation of cellular component organization
+regulation of multicellular organismal process
+regulation of cytokine production
+cytokine production
+negative regulation of response to stimulus
+transport
+amino acid transmembrane transport
+regulation of response to stress
+cytoplasm
+vesicle
+cytoplasmic vesicle
+intracellular vesicle
+ion binding
+small molecule binding
+cation binding
+metal ion binding
+developmental process
+positive regulation of protein metabolic process
+biological regulation
+cytoplasm
+membrane
+cytosol
+macrophage migration inhibitory factor receptor complex
+organelle membrane
+response to stimulus
+multicellular organismal process
+developmental process
+anatomical structure development
+negative regulation of cellular process
+regulation of biological process
+negative regulation of biological process
+regulation of cellular process
+positive regulation of biological process
+regulation of microvillus organization
+biological regulation
+system development
+multicellular organism development
+cell differentiation
+cellular developmental process
+generation of neurons
+positive regulation of cellular process
+regulation of microvillus assembly
+protein localization to vacuole
+signaling
+cell projection organization
+regulation of cellular component organization
+regulation of response to stimulus
+nervous system development
+plasma membrane bounded cell projection organization
+establishment of localization in cell
+cytoplasm
+cytosol
+postsynaptic actin cytoskeleton
+cytoskeleton
+nucleoplasm
+supramolecular fiber
+supramolecular polymer
+postsynaptic cytoskeleton
+supramolecular complex
+plasma membrane bounded cell projection
+nuclear chromosome
+protein binding
+protein-containing complex binding
+Pathways in cancer
+Signaling by activated point mutants of FGFR1
+Factor: GCMa:Erg; motif: ATGCGGGCGGAARKG
+Factor: ETF; motif: GVGGMGG
+Factor: ZF5; motif: NRNGNGCGCGCWN; match class: 1
+Factor: E2F-1; motif: NGGGCGGGARV
+Factor: IRX-1; motif: NACRYNNNNNNNNRYGNN
+Factor: E2F-4; motif: SNGGGCGGGAANN; match class: 1
+Factor: E2F-1; motif: NGGGCGGGARV; match class: 1
+Factor: AP-2alpha; motif: NGCCYSNNGSN
+Factor: E2F-2; motif: GCGCGCGCNCS
+Factor: IRX-1; motif: NACRYNNNNNNNNRYGNN; match class: 1
+Factor: E2F1; motif: GSGCGGGAAN; match class: 1
+GSK3B-HSP90AA1-PKM2 complex
+positive regulation of biological process
+system development
+positive regulation of cellular process
+anatomical structure development
+secondary heart field specification
+cell junction
+nucleoplasm
+membrane-enclosed lumen
+organelle lumen
+intracellular organelle lumen
+plasma membrane region
+cytoplasm
+nuclear body
+cell periphery
+protein metabolic process
+organonitrogen compound metabolic process
+catabolic process
+cytoplasm
+cytosol
+protein binding
+lymph node; germinal center cells[≥Medium]
+tonsil; non-germinal center cells[≥Low]
+tonsil; non-germinal center cells[≥Medium]
+tonsil
+Renal cell carcinoma
+Signaling by NOTCH
+Cellular response to hypoxia
+NOTCH1 Intracellular Domain Regulates Transcription
+Signaling by NOTCH4
+Factor: PXR; motif: AGTTCANNSAGTTC; match class: 1
+Type 2 papillary renal cell carcinoma
+response to stress
+organonitrogen compound metabolic process
+regulation of response to stimulus
+regulation of response to stress
+negative regulation of response to stimulus
+cytoplasm
+vesicle
+nucleoplasm
+cytoplasmic vesicle
+intracellular vesicle
+membrane-bounded organelle
+endomembrane system
+organelle
+organelle membrane
+cation binding
+small molecule binding
+metal ion binding
+ion binding
+protein binding
+developmental process
+anatomical structure development
+cellular response to stimulus
+multicellular organismal process
+response to stimulus
+cytoplasm
+bounding membrane of organelle
+vesicle membrane
+cytoplasmic vesicle membrane
+organelle membrane
+clathrin coat
+protein binding
+adenyl ribonucleotide binding
+adenyl nucleotide binding
+protein serine kinase activity
+ATP binding
+transferase activity
+purine ribonucleotide binding
+carbohydrate derivative binding
+ribonucleotide binding
+nucleotide binding
+nucleoside phosphate binding
+anion binding
+heterocyclic compound binding
+protein kinase activity
+purine nucleotide binding
+protein serine/threonine kinase activity
+catalytic activity, acting on a protein
+purine ribonucleoside triphosphate binding
+catalytic activity
+Factor: ZNF670; motif: SNGGGCRGRG; match class: 1
+Factor: BTEB3; motif: CCNNSCCNSCCCCKCCCCC
+Factor: sp4; motif: NNGNARGRGGCGGRGCNNRR; match class: 1
+Factor: TIEG1; motif: NCCCNSNCCCCGCCCCC; match class: 1
+Factor: Sp1; motif: CCCCGCCCCN
+Factor: SP1; motif: GGCCCCGCCCCCN
+Factor: BTEB4; motif: NCCACGCCCM; match class: 1
+Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS
+Factor: ETF; motif: GVGGMGG; match class: 1
+Factor: Sp1; motif: NNGGGGCGGGGNN
+Factor: Sp1; motif: NNGGGGCGGGGNN; match class: 1
+Factor: SP1; motif: NCCCCKCCCCC
+Factor: Sp1; motif: GGGGCGGGGC
+Factor: SP2; motif: GGGCGGGAC; match class: 1
+Factor: Sp2; motif: GGGGCGGGG
+Factor: Sp2; motif: NYSGCCCCGCCCCCY
+Factor: Sp1; motif: GGGGCGGGGC; match class: 1
+Factor: MAZ; motif: GGGMGGGGSSGGGGGGGGGGGG; match class: 1
+Factor: Sp1; motif: NGGGGCGGGGN
+Factor: AP-2rep; motif: NGGGGCGGGGC
+Factor: SP1; motif: GGGGYGGGGNS
+Factor: BTEB2; motif: GCCCCRCCCH
+Factor: SP1; motif: RCCMCRCCCMC
+Factor: TIEG1; motif: NCCCNSNCCCCGCCCCC
+Factor: c-Myc:Max; motif: GCCAYGYGSN; match class: 1
+Factor: Sp3; motif: GGGGCGGGGSNN
+Factor: SP4; motif: GGCCCCGCCCCCN
+Factor: KLF3; motif: NNNNNNGGGCGGGGCNNGN
+Factor: SP2; motif: GGGCGGGAC
+Factor: Sp3; motif: GGGGCGGGGSNN; match class: 1
+Factor: SP2; motif: GNNGGGGGCGGGGSN
+Factor: Sp1; motif: NGGGGGCGGGGYN; match class: 1
+Factor: KLF15; motif: RCCMCRCCCMCN
+Factor: Sp1; motif: GGGGCGGGGC
+Factor: ZNF670; motif: SNGGGCRGRG
+Factor: RNF96; motif: BCCCGCRGCC; match class: 1
+Factor: GKLF; motif: GCCMCRCCCNNN
+Factor: GKLF; motif: NNCCMCRCCCN
+Factor: GKLF; motif: NNCCMCRCCCN; match class: 1
+secondary heart field specification
+heart field specification
+cellular ketone body metabolic process
+cytosol
+cytoplasm
+membrane
+ion binding
+metal ion binding
+small molecule binding
+cation binding
+Heme signaling
+positive regulation of megakaryocyte differentiation
+cytoplasm
+membrane
+protein binding
+stomach 1; glandular cells[≥Medium]
+cervix; glandular cells[≥Low]
+duodenum
+colon; glandular cells[≥Medium]
+appendix
+breast; glandular cells[≥Medium]
+seminal vesicle
+seminal vesicle; glandular cells[≥Low]
+interleukin-12 receptor complex
+interleukin-23 receptor complex
+peptidyltransferase activity
+leukotriene-C(4) hydrolase
+hsa-miR-5699-5p
+Factor: ETF; motif: CCCCGCCCCYN
+Factor: GKLF; motif: GCCMCRCCCNNN; match class: 1
+Factor: ctcf; motif: CCRSCAGGGGGCGCN
+Factor: LRF; motif: GGGGKYNNB
+Factor: GKLF; motif: GCCMCRCCCNNN
+Factor: E2F-1:Elk-1; motif: SGCGCSNNAMCGGAAGT; match class: 1
+Factor: E2F-3; motif: GGCGGGN; match class: 1
+Factor: SP1; motif: RCCMCRCCCMC
+Factor: BTEB2; motif: GCCCCRCCCH
+Factor: SP1; motif: NRGKGGGCGGGGCN
+Factor: CPBP; motif: GNNRGGGHGGGGNNGGGRN; match class: 1
+Factor: BTEB2; motif: GCCCCRCCCH; match class: 1
+Factor: Sp1; motif: NNGGGGCGGGGNN
+Factor: sp4; motif: NNNGCYCCGCCCCCY
+Factor: MOVO-B; motif: GNGGGGG
+Factor: SP2; motif: GGGCGGGAC
+Factor: RREB-1; motif: GGGWCSA
+Factor: SP4; motif: GGCCCCGCCCCCN
+Factor: PAX5; motif: RNGCGTGACCNN
+Factor: SP1; motif: RCCMCRCCCMC; match class: 1
+Factor: GKLF; motif: WGGGYGKGGC
+Factor: EGR-1; motif: TGCGTGGGCGK
+Factor: Sp1; motif: NWRGCCMCGCCCMCN
+Factor: TCF-1; motif: ACATCGRGRCGCTGW; match class: 1
+Factor: NRF-1; motif: SYGCGCMTGCGCRNNGSN
+Factor: SP4; motif: GGCCCCGCCCCCN; match class: 1
+Factor: E2F-4; motif: SNGGGCGGGAANN; match class: 1
+Factor: KLF14; motif: NRCCACRCCCMCN
+Factor: Sp3; motif: NGCCACGCCCMCN; match class: 1
+22q11 2 copy number variation syndrome
+SREBF and miR33 in cholesterol and lipid homeostasis
+actin filament-based process
+CX3C chemokine receptor binding
+Impaired thromboxane A2 agonist-induced platelet aggregation
+lipase activator activity
+DAP12 signaling
+smooth muscle
+smooth muscle; smooth muscle cells[≥Low]
+cytoplasm
+transferase activity
+14-3-3 protein binding
+Factor: Rb:E2F-1:DP-1; motif: TTTSGCGC
+Factor: E2F-1; motif: WWTGGCGCCAAA
+Factor: E2F4; motif: YCCCGCCNCNNSSNNSNN; match class: 1
+Factor: E2F-2; motif: GCGCGCGCNCS; match class: 1
+Factor: ZF5; motif: NRNGNGCGCGCWN
+Factor: E2F-4:DP-1; motif: TTTSGCGC
+Factor: E2F; motif: TTTSGCGS
+Factor: E2F-4; motif: SNGGGCGGGAANN
+Factor: E2F-2; motif: NWTTTGGCGCCAWWNN; match class: 1
+GSK3B-HSP90AA1-PKM2 complex
+cellular ketone body metabolic process
+ketone body metabolic process
+secondary heart field specification
+protein binding
+developmental process
+positive regulation of protein metabolic process
+cytoplasm
+membrane
+cytosol
+macrophage migration inhibitory factor receptor complex
+organelle membrane
+protein binding
+trimethylamine monooxygenase activity
+Everted lower lip vermilion
+Eclabion
+FMO oxidises nucleophiles
+transferase activity
+prostate
+prostate; glandular cells[≥Low]
+Factor: E2F-1; motif: NTTTTGGCGCCAWWWN; match class: 1
+Factor: E2F-2; motif: NWTTTGGCGCCAWWNN; match class: 1
+Factor: RUNX2; motif: NRACCGCAAACCGCAN; match class: 1
+Factor: AP-2gamma:Elk-1; motif: NGCCKNRGGSGRCGGAAGTG; match class: 1
+Factor: GCMa; motif: RTGCGGGTN
+Factor: E2F-3; motif: GGCGGGN; match class: 1
+Factor: E2F-2; motif: GCGCGCGCNCS; match class: 1
+Factor: E2F-4; motif: SNGGGCGGGAANN; match class: 1
+Factor: E2F-2; motif: NWTTTGGCGCCAWWNN
+Factor: E2F-3:FOXI1; motif: NGACACCGCGCCCAC; match class: 1
+C-terminal protein amino acid modification
+cytoplasm
+cytosol
+endomembrane system
+organelle membrane
+catalytic activity
+spleen; cells in red pulp[≥Medium]
+purine-containing compound metabolic process
+nucleobase-containing small molecule metabolic process
+cytoplasm
+negative regulation of motor neuron apoptotic process
+regulation of motor neuron apoptotic process
+motor neuron apoptotic process
+cell development
+phosphate-containing compound metabolic process
+SRP-dependent cotranslational protein targeting to membrane, translocation
+phosphorus metabolic process
+adenyl ribonucleotide binding
+protein binding
+adenyl nucleotide binding
+purine ribonucleotide binding
+ribonucleotide binding
+anion binding
+purine nucleotide binding
+ATP binding
+carbohydrate derivative binding
+nucleotide binding
+nucleoside phosphate binding
+heterocyclic compound binding
+purine ribonucleoside triphosphate binding
+phosphotransferase activity, alcohol group as acceptor
+transferase activity, transferring phosphorus-containing groups
+protein kinase activity
+kinase activity
+diacylglycerol-dependent serine/threonine kinase activity
+Sphingolipid signaling pathway
+Axon guidance
+Factor: LBP-1; motif: NRCCGGTNNNNACCGGYN; match class: 1
+Factor: CP2; motif: NRRRCCGGCYNRARCCGGNN
+Factor: LBP-1; motif: NRCCGGTNNNNACCGGYN
+Factor: ZSCAN18; motif: TRRCGRCGNMCC
+Factor: TCF-1; motif: ACATCGRGRCGCTGW
+Factor: ETF; motif: GVGGMGG
+Factor: Hey1; motif: NGCRCGYGYN; match class: 1
+Airway smooth muscle cell contraction
+MAP3K1 role in promoting and blocking gonadal determination
+MCM2-MCM6-MCM7 complex
+MCM complex
+MCM2-MCM4-MCM6-MCM7 complex
+transport
+regulation of microvillus organization
+establishment of localization in cell
+establishment of localization
+localization
+negative regulation of cellular process
+regulation of microvillus assembly
+negative regulation of biological process
+biological regulation
+establishment of spindle orientation
+multicellular organismal process
+microvillus organization
+cytoplasm
+replication fork protection complex
+skin 2; cells in basal layer[≥Medium]
+skin 2; cells in basal layer[≥Low]
+Hippo signaling pathway
+Factor: ZXDL; motif: GSGSCNNGGGMRGCNCCGGGS
+multicellular organism development
+cell differentiation
+cellular developmental process
+system development
+developmental process
+response to stimulus
+DNA metabolic process
+anatomical structure development
+response to stress
+cardiac muscle tissue development
+cytoplasm
+intracellular anatomical structure
+nucleoplasm
+cytosol
+protein binding
+ubiquitin conjugating enzyme activity
+ubiquitin-like protein conjugating enzyme activity
+adenyl nucleotide binding
+adenyl ribonucleotide binding
+heterocyclic compound binding
+Factor: p63; motif: RRACATGTCNRGACATGTYY
+positive regulation of megakaryocyte differentiation
+appendix
+seminal vesicle
+seminal vesicle; glandular cells[≥Low]
+cytoplasm
+spliceosomal complex
+interleukin-12 receptor complex
+Factor: sp4; motif: NNNGCYCCGCCCCCY
+Factor: E2F-1:Elk-1; motif: SGCGCSNNAMCGGAAGT; match class: 1
+Factor: E2F-1; motif: NGGGCGGGARV; match class: 1
+Factor: SP1; motif: NRGKGGGCGGGGCN
+Factor: T3RALPHA; motif: TGWCCTNRNNTGACCYN
+Factor: ctcf; motif: CCRSCAGGGGGCGCN
+Factor: RREB-1; motif: GGGWCSA
+Factor: CTCF; motif: NCCRSTAGGGGGCGC
+Factor: Sp1; motif: NWRGCCMCGCCCMCN
+22q11 2 copy number variation syndrome
+cytoplasm
+galectin complex
+endomembrane system
+cytosol
+organelle membrane
+Factor: ZNF295; motif: NYCYCWGCYYCCCN
+Factor: SP2; motif: GGGCGGGAC
+Factor: ZNF787; motif: TGCCTCAGTTTMCCN
+Factor: LRF; motif: GGGGKYNNB
+XRCC1-LIG3-PNK-TDP1 complex
+cellular anatomical entity morphogenesis
+nervous system development
+neuron projection development
+neuron projection morphogenesis
+cytoplasm
+melanosome
+pigment granule
+presynapse
+cell junction
+cytoskeleton
+catenin complex
+protein binding
+organonitrogen compound metabolic process
+cytoplasm
+protein binding
+cytoplasm
+cytosol
+cell leading edge
+developmental process
+cytoplasm
+cytoskeleton
+nucleoplasm
+microtubule cytoskeleton
+presynapse
+multicellular organism development
+anatomical structure development
+cell development
+cell differentiation
+cellular developmental process
+negative regulation of protein localization
+system development
+phosphate-containing compound metabolic process
+developmental process
+phosphorus metabolic process
+hemopoiesis
+regulation of developmental process
+response to organic substance
+positive regulation of nitrogen compound metabolic process
+cellular response to chemical stimulus
+positive regulation of transcription by RNA polymerase II
+regulation of multicellular organismal process
+negative regulation of transport
+neurogenesis
+positive regulation of macromolecule metabolic process
+organophosphate metabolic process
+negative regulation of secretion by cell
+positive regulation of metabolic process
+negative regulation of cellular process
+generation of precursor metabolites and energy
+nervous system development
+negative regulation of biological process
+cardiac muscle hypertrophy
+negative regulation of secretion
+response to oxygen-containing compound
+negative regulation of multicellular organismal process
+cellular response to organic substance
+cytoplasm
+intracellular anatomical structure
+protein binding
+adenyl ribonucleotide binding
+adenyl nucleotide binding
+anion binding
+ATP binding
+nucleotide binding
+nucleoside phosphate binding
+purine ribonucleotide binding
+purine nucleotide binding
+ribonucleotide binding
+heterocyclic compound binding
+carbohydrate derivative binding
+phosphotransferase activity, alcohol group as acceptor
+purine ribonucleoside triphosphate binding
+kinase activity
+transferase activity, transferring phosphorus-containing groups
+protein kinase activity
+hippocampus
+cerebral cortex
+Factor: ZNF148; motif: NNNNNNCCNNCCCCTCCCCCACCCN
+Factor: Osx; motif: CCNCCCCCNNN
+Factor: EGR1; motif: NACGCCCACGCANW; match class: 1
+Cardiac hypertrophic response
+response to stimulus
+anatomical structure development
+negative regulation of cellular process
+system development
+multicellular organism development
+regulation of biological process
+regulation of microvillus organization
+biological regulation
+negative regulation of biological process
+anatomical structure morphogenesis
+multicellular organismal process
+response to stress
+regulation of cellular process
+developmental process
+establishment of localization in cell
+positive regulation of biological process
+regulation of response to stimulus
+regulation of cellular component organization
+stem cell proliferation
+protein localization to vacuole
+signaling
+regulation of microvillus assembly
+regulation of stem cell proliferation
+cell morphogenesis
+establishment of protein localization to vacuole
+localization
+cytoplasm
+cytosol
+cytoskeleton
+postsynaptic actin cytoskeleton
+supramolecular fiber
+supramolecular polymer
+postsynaptic cytoskeleton
+supramolecular complex
+plasma membrane bounded cell projection
+cell projection
+nuclear chromosome
+cell periphery
+cell junction
+protein-containing complex binding
+protein binding
+anion binding
+adenyl nucleotide binding
+catalytic activity
+enzyme binding
+adenyl ribonucleotide binding
+Signaling by Rho GTPases
+Factor: ETF; motif: GVGGMGG
+Factor: ETF; motif: GVGGMGG; match class: 1
+developmental process
+multicellular organism development
+anatomical structure development
+cellular localization
+system development
+multicellular organismal process
+cytoplasm
+vesicle
+cytosol
+cell projection
+cytoskeleton
+endomembrane system
+cell leading edge
+plasma membrane bounded cell projection
+nucleoplasm
+microtubule cytoskeleton
+extracellular exosome
+microtubule organizing center
+cell junction
+extracellular vesicle
+extracellular organelle
+extracellular membrane-bounded organelle
+protein binding
+protein domain specific binding
+enzyme binding
+hsa-miR-30a-5p
+biological regulation
+cytoplasm
+cell projection
+cytosol
+protein binding
+integrin complex
+cytoplasm
+CX3C chemokine receptor binding
+nucleoplasm
+lipase activator activity
+hsa-miR-4470
+cytoplasm
+microtubule cytoskeleton
+vesicle
+extracellular region
+cytoskeleton
+nucleoplasm
+microtubule organizing center
+membrane-bounded organelle
+extracellular space
+Base excision repair
+single-stranded DNA helicase activity
+Thick lower lip vermilion
+Clinodactyly of the 5th finger
+Deviation of the 5th finger
+Abnormal stomach morphology
+Finger clinodactyly
+Nevus
+Ectopic kidney
+Hyperacusis
+Factor: ZF5; motif: NRNGNGCGCGCWN; match class: 1
+cytoplasm
+transferase activity
+adenyl ribonucleotide binding
+adenyl nucleotide binding
+purine ribonucleotide binding
+ribonucleotide binding
+Factor: E2F-1; motif: WWTGGCGCCAAA
+Negative regulation of activity of TFAP2 (AP-2) family transcription factors
+cytoplasm
+enzyme binding
+cytoplasm
+macrophage migration inhibitory factor receptor complex
+membrane
+organelle membrane
+collagen-containing extracellular matrix
+cytoplasm
+protein binding
+Factor: E2F-1; motif: NNNNGGCGGGAARN
+Factor: BEN; motif: CAGCGRNV; match class: 1
+Factor: Sp1; motif: NGGGGCGGGGN
+Factor: E2F; motif: GGCGSG
+Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN; match class: 1
+Factor: Churchill; motif: CGGGNN
+Factor: E2F-2; motif: GCGCGCGCGYW; match class: 1
+Factor: pax-6; motif: NYACGCNYSANYGMNCN
+Factor: E2F-4; motif: SNGGGCGGGAANN
+Factor: E2F-4; motif: SNGGGCGGGAANN; match class: 1
+Factor: ZF5; motif: NRNGNGCGCGCWN; match class: 1
+Factor: E2F-3; motif: GGCGGGN
+Factor: RNF96; motif: BCCCGCRGCC; match class: 1
+Factor: IRX-1; motif: NACRYNNNNNNNNRYGNN; match class: 1
+Factor: HA95; motif: CCSNSSCCNSCNCCWSCCNS; match class: 1
+Factor: MOVO-B; motif: GNGGGGG
+Factor: CHD2; motif: TCTCGCGAG; match class: 1
+Factor: AP-2; motif: GSCCSCRGGCNRNRNN
+Factor: E2F4; motif: YCCCGCCNCNNSSNNSNN; match class: 1
+Factor: ZF5; motif: NRNGNGCGCGCWN
+Factor: Egr-1; motif: WTGCGTGGGCGK
+Factor: E2F1; motif: GSGCGGGAAN
+Factor: Hey1; motif: NGCRCGYGYN
+Factor: E2F-4; motif: NNTTCCCGCCNN
+Factor: E2F-2; motif: GCGCGCGCGYW
+Factor: ZF5; motif: GSGCGCGR; match class: 1
+Factor: TFAP2A; motif: NGCCCYNNGGGCN; match class: 1
+Factor: TFAP2A; motif: NGCCCYNNGGGCN
+Factor: Churchill; motif: CGGGNN; match class: 1
+Factor: TFAP2C; motif: NGCCCNNRGGCA; match class: 1
+Factor: E2F-4; motif: NGGCGGGAARN
+Factor: E2F-1; motif: NGGGCGGGARV; match class: 1
+Factor: TFAP2C; motif: NGCCCNNRGGCA
+Factor: HA95; motif: CCSNSSCCNSCNCCWSCCNS
+negative regulation of developmental process
+protein binding
+regulation of apoptotic signaling pathway
+extrinsic apoptotic signaling pathway
+negative regulation of apoptotic signaling pathway
+cellular response to chemical stimulus
+cellular response to stimulus
+organic cyclic compound catabolic process
+negative regulation of apoptotic process
+membrane
+cytoplasm
+organelle membrane
+macrophage migration inhibitory factor receptor complex
+actin-based cell projection
+transporter activity
+cytoplasm
+protein binding
+CS-MAP3K7IP1-MAP3K7IP2 complex
+cytoplasm
+transferase activity
+14-3-3 protein binding
+Factor: E2F-1; motif: WWTGGCGCCAAA
+Factor: E2F4; motif: YCCCGCCNCNNSSNNSNN; match class: 1
+Factor: E2F-2; motif: GCGCGCGCNCS; match class: 1
+Factor: E2F-1; motif: NTTTTGGCGCCAWWWN
+Factor: ZF5; motif: NRNGNGCGCGCWN
+Factor: E2F-1; motif: WWTGGCGCCAAA; match class: 1
+Factor: MOVO-B; motif: GNGGGGG; match class: 1
+Factor: Rb:E2F-1:DP-1; motif: TTTSGCGC
+Factor: E2F-4; motif: SNGGGCGGGAANN
+Factor: ETF; motif: GVGGMGG
+Factor: AP2; motif: GCCYGSGGSN; match class: 1
+Factor: RNF96; motif: BCCCGCRGCC
+Factor: ZF5; motif: GSGCGCGR; match class: 1
+positive regulation of biological process
+positive regulation of cellular process
+positive regulation of intracellular transport
+multicellular organism development
+system development
+cell differentiation
+cellular developmental process
+organonitrogen compound catabolic process
+developmental process
+regulation of catabolic process
+cell projection organization
+protein catabolic process
+anatomical structure development
+cytoplasm
+nucleoplasm
+cell projection
+plasma membrane bounded cell projection
+cytoskeleton
+supramolecular complex
+supramolecular fiber
+supramolecular polymer
+organelle
+organelle lumen
+membrane-enclosed lumen
+intracellular organelle lumen
+cytosol
+cell junction
+protein binding
+catalytic activity
+Poor speech
+Factor: p63; motif: RRACATGTCNRGACATGTYY
+PA700-20S-PA28 complex
+26S proteasome
+proteasome-mediated ubiquitin-dependent protein catabolic process
+cytoplasm
+catalytic complex
+nucleoplasm
+cytosol
+intracellular protein-containing complex
+proteasome complex
+nuclear speck
+intracellular anatomical structure
+endopeptidase complex
+transferase complex
+intracellular organelle lumen
+membrane-enclosed lumen
+organelle lumen
+protein binding
+lymph node; germinal center cells[≥Medium]
+Proteasome
+Cellular response to hypoxia
+Signaling by NOTCH4
+Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha
+GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2
+C-type lectin receptors (CLRs)
+Vif-mediated degradation of APOBEC3G
+Negative regulation of NOTCH4 signaling
+Nuclear events mediated by NFE2L2
+Regulation of RUNX3 expression and activity
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis
+Downstream signaling events of B Cell Receptor (BCR)
+Degradation of DVL
+Degradation of GLI1 by the proteasome
+Degradation of GLI2 by the proteasome
+GLI3 is processed to GLI3R by the proteasome
+Signaling by NOTCH
+Synthesis of DNA
+Transcriptional regulation by RUNX3
+Activation of NF-kappaB in B cells
+Regulation of RAS by GAPs
+CLEC7A (Dectin-1) signaling
+Orc1 removal from chromatin
+Regulation of RUNX2 expression and activity
+Cross-presentation of soluble exogenous antigens (endosomes)
+KEAP1-NFE2L2 pathway
+Regulation of activated PAK-2p34 by proteasome mediated degradation
+Regulation of ornithine decarboxylase (ODC)
+Autodegradation of the E3 ubiquitin ligase COP1
+p53-Independent G1/S DNA damage checkpoint
+Ubiquitin Mediated Degradation of Phosphorylated Cdc25A
+Ubiquitin-dependent degradation of Cyclin D
+Vpu mediated degradation of CD4
+p53-Independent DNA Damage Response
+Regulation of Apoptosis
+Hedgehog 'off' state
+Interleukin-1 signaling
+AUF1 (hnRNP D0) binds and destabilizes mRNA
+Interleukin-1 family signaling
+Degradation of AXIN
+SCF-beta-TrCP mediated degradation of Emi1
+Degradation of beta-catenin by the destruction complex
+G2/M Transition
+Hh mutants are degraded by ERAD
+Hedgehog 'on' state
+Mitotic G2-G2/M phases
+Stabilization of p53
+Metabolism of polyamines
+NIK-->noncanonical NF-kB signaling
+Hh mutants abrogate ligand secretion
+S Phase
+Dectin-1 mediated noncanonical NF-kB signaling
+SCF(Skp2)-mediated degradation of p27/p21
+Defective CFTR causes cystic fibrosis
+Host Interactions of HIV factors
+Switching of origins to a post-replicative state
+PCP/CE pathway
+Signaling by Interleukins
+Asymmetric localization of PCP proteins
+Autodegradation of Cdh1 by Cdh1:APC/C
+Hedgehog ligand biogenesis
+p53-Dependent G1/S DNA damage checkpoint
+p53-Dependent G1 DNA Damage Response
+Downstream TCR signaling
+APC/C:Cdc20 mediated degradation of Securin
+G1/S DNA Damage Checkpoints
+UCH proteinases
+Regulation of PTEN stability and activity
+DNA Replication
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A
+CDK-mediated phosphorylation and removal of Cdc6
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint
+Mitotic G1 phase and G1/S transition
+NOTCH1 Intracellular Domain Regulates Transcription
+Signaling by Hedgehog
+APC/C:Cdc20 mediated degradation of mitotic proteins
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins
+Neddylation
+ABC transporter disorders
+The role of GTSE1 in G2/M progression after G2 checkpoint
+Regulation of APC/C activators between G1/S and early anaphase
+Transcriptional regulation by RUNX2
+Cyclin E associated events during G1/S transition 
+TCR signaling
+Cyclin A:Cdk2-associated events at S phase entry
+Factor: E2F; motif: TTTSGCGS; match class: 1
+Factor: REX-1; motif: GGCMGCCATTTT; match class: 1
+Proteasome degradation
+Initiation of transcription and translation elongation at the HIV 1 LTR
+prostate
+prostate; glandular cells[≥Low]
+smooth muscle
+smooth muscle; smooth muscle cells[≥Low]
+Factor: E2F-3; motif: GGCGGGN; match class: 1
+nucleoplasm
+membrane-enclosed lumen
+organelle lumen
+intracellular organelle lumen
+membrane-bounded organelle
+metal ion binding
+ion binding
+cation binding
+small molecule binding
+protein binding
+developmental process
+anatomical structure development
+multicellular organism development
+system development
+organonitrogen compound metabolic process
+developmental maturation
+protein metabolic process
+regulation of biological process
+regulation of cellular process
+macromolecule modification
+biological regulation
+positive regulation of biological process
+phosphate-containing compound metabolic process
+phosphorus metabolic process
+multicellular organismal process
+protein modification process
+cell communication
+export from cell
+cytoplasm
+vesicle
+synapse
+cell junction
+protein binding
+protein kinase activity
+transferase activity
+protein serine/threonine kinase activity
+protein serine kinase activity
+phosphotransferase activity, alcohol group as acceptor
+caudate; neuronal cells[≥Medium]
+hsa-miR-4426
+hsa-miR-4647
+hsa-miR-4662b
+Ion homeostasis
+Factor: BTEB3; motif: CCNNSCCNSCCCCKCCCCC
+Factor: ETF; motif: GVGGMGG; match class: 1
+Factor: TIEG1; motif: NCCCNSNCCCCGCCCCC; match class: 1
+Factor: KLF15; motif: RCCMCRCCCMCN
+Factor: Sp1; motif: NGGGGGCGGGGYN; match class: 1
+Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS
+Factor: SP1; motif: GGGGYGGGGNS
+Factor: WT1; motif: GNGGGGGCGGGG
+Factor: Sp1; motif: NNGGGGCGGGGNN; match class: 1
+Factor: Sp1; motif: NGGGGGCGGGGCCNGGGGGGGG
+Factor: Sp1; motif: GGGGCGGGGC; match class: 1
+Factor: BTEB3; motif: CCNNSCCNSCCCCKCCCCC; match class: 1
+Factor: ZNF383; motif: SSNGGGMGGNGSNGGS; match class: 1
+Factor: TIEG1; motif: NCCCNSNCCCCGCCCCC
+Factor: ZNF148; motif: NNNNNNCCNNCCCCTCCCCCACCCN
+Factor: Egr-1; motif: GCGCATGCG; match class: 1
+Factor: Sp1; motif: CCCCGCCCCN
+Factor: Egr-1; motif: GCGCATGCG
+Factor: ZNF142; motif: SNSCGCCCGCCCGCSCSS
+Factor: SP1; motif: CCCCKCCCCC
+Factor: Sp1; motif: GGGGCGGGGT; match class: 1
+Factor: SP1; motif: NCCCCKCCCCC
+Factor: E2F; motif: GGCGSG; match class: 1
+Factor: ZNF670; motif: SNGGGCRGRG; match class: 1
+Factor: c-Myc:Max; motif: GCCAYGYGSN; match class: 1
+Factor: sp4; motif: NNGNARGRGGCGGRGCNNRR; match class: 1
+Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS; match class: 1
+Factor: GKLF; motif: NNCCMCRCCCN; match class: 1
+Factor: AP-2; motif: MKCCCSCNGGCG
+C-terminal protein amino acid modification
+cytoplasm
+cytosol
+endomembrane system
+organelle membrane
+vesicle
+extracellular exosome
+extracellular vesicle
+extracellular membrane-bounded organelle
+extracellular organelle
+catalytic activity
+ion binding
+protein binding
+small molecule binding
+liver
+bone marrow; hematopoietic cells[≥Low]
+bone marrow
+Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN; match class: 1
+Factor: GABPalpha_GABPbeta; motif: CTTCCKGY
+RasGAP-AURKA-survivin complex
+cytoplasm
+membrane
+nucleoplasm
+protein binding
+mu-type opioid receptor binding
+kidney; cells in tubules[≥Low]
+kidney
+breast; glandular cells[≥Medium]
+hippocampus; neuronal cells[≥Low]
+testis; Leydig cells[≥Low]
+urinary bladder
+urinary bladder; urothelial cells[≥Low]
+cytoplasm
+catalytic complex
+cytosol
+Cul3-RING ubiquitin ligase complex
+nuclear speck
+nucleoplasm
+galectin complex
+spliceosomal complex
+protein binding
+glutathione hydrolase activity
+leukotriene-C(4) hydrolase
+peptidyltransferase activity
+adipose tissue
+adipose tissue; adipocytes[≥Low]
+hsa-miR-744-5p
+Factor: PAX5; motif: RNGCGTGACCNN
+Factor: LRF; motif: GGGGKYNNB
+Factor: GKLF; motif: GCCMCRCCCNNN; match class: 1
+Factor: SP2; motif: GGGCGGGAC; match class: 1
+Factor: GLI; motif: MCVNNGACCACCCAV
+Factor: SP2; motif: GGGCGGGAC
+Factor: SP1; motif: RCCMCRCCCMC; match class: 1
+Factor: AP-2gamma; motif: GCCYNNGGS
+Factor: SP4; motif: GGCCCCGCCCCCN; match class: 1
+Factor: BTEB2; motif: GCCCCRCCCH; match class: 1
+Factor: pax-6; motif: NYACGCNYSANYGMNCN
+Factor: ZNF787; motif: TGCCTCAGTTTMCCN
+Factor: GKLF; motif: NNCCMCRCCCN
+Factor: E2F-3; motif: GGCGGGN; match class: 1
+Factor: ZNF295; motif: NYCYCWGCYYCCCN
+Factor: TCF-1; motif: ACATCGRGRCGCTGW; match class: 1
+Factor: TF3C-beta; motif: CCNGGAGGGCTTCCTGGAGGAG
+Factor: Sp1; motif: GGGGCGGGGT
+Factor: SP1; motif: GGCCCCGCCCCCN; match class: 1
+Factor: AP-2alpha; motif: NSCCNCRGGSN
+Factor: Sp3; motif: NGCCACGCCCMCN; match class: 1
+Factor: AP-2alpha; motif: NGCCYSNNGSN; match class: 1
+Factor: AP2BETA; motif: SCCYCAGGSNN; match class: 1
+Factor: E2F-3; motif: GGCGGGN
+Factor: Sp1; motif: NGGGGGCGGGGYN
+Factor: BTEB2; motif: GCCCCRCCCH
+Factor: GKLF; motif: GCCMCRCCCNNN
+Factor: Sp1; motif: NWRGCCACGCCCMCN; match class: 1
+Factor: ZNF416; motif: GGGRNGCCSAGRN
+Factor: Sp1; motif: GGGGCGGGGT; match class: 1
+Factor: GKLF; motif: NNCCMCRCCCN; match class: 1
+Factor: SP4; motif: GGCCCCGCCCCCN
+Factor: Sp1; motif: NNGGGGCGGGGNN
+Factor: Sp1; motif: NWRGCCMCGCCCMCN
+Factor: SP1; motif: GGCCCCGCCCCCN
+Factor: BTEB4; motif: NCCACGCCCM
+Factor: TF3C-beta; motif: CCNGGAGGGCTTCCTGGAGGAG; match class: 1
+Factor: AP-2; motif: SNNNCCNCAGGCN
+Factor: Sp1; motif: GGGGCGGGGC
+Factor: Sp1; motif: NNGGGGCGGGGNN; match class: 1
+Factor: ETF; motif: GVGGMGG
+Factor: BTEB2; motif: RGGGNGKGGN; match class: 1
+Factor: SP1; motif: NRGKGGGCGGGGCN; match class: 1
+Factor: E2F-4; motif: SNGGGCGGGAANN; match class: 1
+Factor: Sp1; motif: NGGGGCGGGGN
+Factor: E2F-3:FOXI1; motif: NGACACCGCGCCCAC; match class: 1
+Factor: ZNF37A; motif: CCYYGGCTCCNTSCCMN
+Factor: Sp1; motif: NWRGCCMCGCCCMCN; match class: 1
+Factor: Zic1; motif: KGGGTGGTC; match class: 1
+Factor: ZNF670; motif: SNGGGCRGRG
+Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN
+Factor: ZBTB33; motif: GGYGCTG
+Factor: Sp1; motif: NWRGCCACGCCCMCN
+Factor: HDAC1; motif: KGCARGGTC
+Factor: Sp1; motif: GGGGCGGGGC; match class: 1
+Factor: ZNF586; motif: CAGGCCYRGAGG; match class: 1
+Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS; match class: 1
+Factor: E2F4; motif: YCCCGCCNCNNSSNNSNN
+Factor: AP-2beta; motif: NSCCYNRGGSN
+Factor: AP-2alpha; motif: NGCCYSNNGSN
+Factor: Sp1; motif: NGGGGGCGGGGYN; match class: 1
+Factor: CP2; motif: NNNNCCAGNCNN
+Factor: ZXDL; motif: GSGSCNNGGGMRGCNCCGGGS; match class: 1
+Factor: SP1; motif: NRGKGGGCGGGGCN
+Factor: HNRPUL1; motif: NCNCAGN; match class: 1
+Factor: Sp1; motif: NGGGGGCGGGGCCNGGGGGGGG; match class: 1
+Factor: E2F-3:FOXI1; motif: NGACACCGCGCCCAC
+Factor: SP4; motif: SCCCCGCCCCS
+Factor: AP2; motif: GCCYGSGGSN
+Factor: ZF5; motif: GSGCGCGR; match class: 1
+Factor: TR4; motif: ACCCCGS; match class: 1
+Factor: E2F-4; motif: SNGGGCGGGAANN
+Factor: SP4; motif: NWRGCCACGCCCMCTYN
+Factor: Sp1; motif: NGGGGCGGGGN; match class: 1
+Factor: AP-2beta; motif: NSCCNNNGGSN; match class: 1
+Factor: ZF5; motif: GGSGCGCGS; match class: 1
+Factor: BTEB4; motif: NCCACGCCCM; match class: 1
+Factor: Sp2; motif: NYSGCCCCGCCCCCY; match class: 1
+Factor: Sp2; motif: GYCCCGCCYCYNNNN; match class: 1
+Factor: ZF5; motif: GGSGCGCGS
+Factor: ZBTB33; motif: GGYGCTG; match class: 1
+Factor: E2F4; motif: YCCCGCCNCNNSSNNSNN; match class: 1
+Factor: Pax-2; motif: CAYSCCTSAGT; match class: 1
+Factor: SP2; motif: GNNGGGGGCGGGGSN; match class: 1
+Factor: SP2; motif: GNNGGGGGCGGGGSN
+Factor: LRF; motif: GGGGKYNNB; match class: 1
+Factor: ZF5; motif: NRNGNGCGCGCWN
+Factor: ZNF644; motif: TCCWGCCTCTSN
+Factor: AP-2beta; motif: NSCCYNRGGSN; match class: 1
+Factor: AP-2alpha; motif: NTNSCCTGRGGSNAN; match class: 1
+Factor: Sp1; motif: GGGGCGGGGC
+Factor: AP-2beta; motif: NSCCNNNGGSN
+Factor: NURR1:RXR-ALPHA; motif: NRGGTCRTTGACCYN; match class: 1
+Factor: KLF3; motif: NNNNNNGGGCGGGGCNNGN
+Factor: AP-2gamma; motif: NSCCYNNRGSN; match class: 1
+Factor: ZFP14; motif: SCNNYCCNGNNSCTSCNC
+Factor: Sp1; motif: GGGGCGGGGC; match class: 1
+Factor: Sp3; motif: GGGGCGGGGSNN
+Factor: EKLF; motif: NGGGYGKGGCNNGG
+Factor: Zic3; motif: NGGGKGGTC
+Factor: AP-2rep; motif: NGGGGCGGGGC
+Factor: BTEB2; motif: RGGGNGKGGN
+Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN; match class: 1
+Factor: Zic3; motif: NGGGKGGTC; match class: 1
+Factor: Sp1; motif: CCCCGCCCCN; match class: 1
+Factor: sp4; motif: NNNGCYCCGCCCCCY; match class: 1
+Factor: MOVO-B; motif: GNGGGGG
+Factor: AP-2gamma; motif: NTGSCCTGRGGSNN; match class: 1
+Factor: EGR1; motif: NNMCGCCCACGCNN
+Factor: Sp2; motif: GGGGCGGGG
+Factor: GKLF; motif: WGGGYGKGGC
+Factor: HAIRYLIKE; motif: NNNNCANGTG; match class: 1
+Factor: E2F-1:HES-7; motif: GGCRCGTGSYNNWNGGCGCSM
+Factor: Churchill; motif: CGGGNN
+Factor: Sp2; motif: NYSGCCCCGCCCCCY
+Factor: ZNF586; motif: CAGGCCYRGAGG
+Factor: ZNF253; motif: SNGNSCGNGGNGCKGNN
+Factor: Sp2; motif: GYCCCGCCYCYNNNN
+Factor: SP1; motif: NCCCCKCCCCC; match class: 1
+Factor: SP1; motif: RCCMCRCCCMC
+Factor: Sp2; motif: GGGGCGGGG; match class: 1
+22q11 2 copy number variation syndrome
+localization
+positive regulation of protein metabolic process
+organonitrogen compound metabolic process
+developmental process
+regulation of cell communication
+regulation of apoptotic signaling pathway
+extrinsic apoptotic signaling pathway
+transport
+negative regulation of apoptotic process
+negative regulation of apoptotic signaling pathway
+regulation of signaling
+regulation of protein metabolic process
+negative regulation of programmed cell death
+establishment of localization
+cytoplasm
+membrane
+organelle membrane
+cytosol
+actin-based cell projection
+macrophage migration inhibitory factor receptor complex
+endomembrane system
+plasma membrane bounded cell projection
+cell projection
+Activation and oligomerization of BAK protein
+cytoplasm
+membrane
+transferase activity
+14-3-3 protein binding
+Factor: E2F-1; motif: WWTGGCGCCAAA
+Factor: E2F4; motif: YCCCGCCNCNNSSNNSNN; match class: 1
+Factor: E2F-2; motif: GCGCGCGCNCS; match class: 1
+Factor: E2F-1; motif: NTTTTGGCGCCAWWWN
+Factor: ZF5; motif: NRNGNGCGCGCWN
+Factor: E2F-1; motif: WWTGGCGCCAAA; match class: 1
+Factor: Rb:E2F-1:DP-1; motif: TTTSGCGC
+Factor: E2F-4; motif: SNGGGCGGGAANN
+Factor: E2F; motif: TTTSGCGS
+Factor: AP2; motif: GCCYGSGGSN; match class: 1
+Factor: ZF5; motif: GSGCGCGR; match class: 1
+Factor: E2F-1; motif: NNNNGGCGGGAARN
+Factor: E2F-4; motif: SNGGGCGGGAANN; match class: 1
+Factor: ETF; motif: GVGGMGG
+Factor: HA95; motif: CCSNSSCCNSCNCCWSCCNS
+Factor: RNF96; motif: BCCCGCRGCC
+Factor: MOVO-B; motif: GNGGGGG; match class: 1
+Factor: E2F1; motif: GSGCGGGAAN
+Factor: BEN; motif: CAGCGRNV; match class: 1
+regulation of biological quality
+cell development
+regulation of cell projection organization
+cytoplasm
+protein binding
+GSK3B-HSP90AA1-PKM2 complex
+positive regulation of biological process
+positive regulation of cellular process
+regulation of primary metabolic process
+regulation of nitrogen compound metabolic process
+regulation of cell development
+developmental process
+anatomical structure development
+biological regulation
+cell morphogenesis
+regulation of biological process
+multicellular organism development
+localization
+cell development
+nucleoplasm
+cytoplasm
+cell junction
+membrane-enclosed lumen
+organelle lumen
+intracellular organelle lumen
+nuclear body
+plasma membrane region
+cytosol
+small molecule binding
+ion binding
+developmental process
+cytoplasm
+macrophage migration inhibitory factor receptor complex
+cytosol
+organelle subcompartment
+organonitrogen compound metabolic process
+protein metabolic process
+cell communication
+establishment of localization
+transport
+phosphate-containing compound metabolic process
+phosphorus metabolic process
+signaling
+protein modification process
+multicellular organism development
+macromolecule modification
+system development
+cytoplasm
+cytosol
+vesicle
+protein binding
+glycosyltransferase activity
+hsa-miR-4426
+hsa-miR-4647
+hsa-miR-4662b
+Factor: ZNF148; motif: NNNNNNCCNNCCCCTCCCCCACCCN
+Factor: KLF15; motif: RCCMCRCCCMCN
+Factor: ETF; motif: GVGGMGG; match class: 1
+Factor: Sp1; motif: CCCCGCCCCN
+Factor: TIEG1; motif: NCCCNSNCCCCGCCCCC; match class: 1
+Factor: SP1; motif: CCCCKCCCCC
+Factor: Sp1; motif: GGGGCGGGGC; match class: 1
+Factor: Sp1; motif: NGGGGGCGGGGYN; match class: 1
+sodium ion transport
+positive regulation of megakaryocyte differentiation
+protein binding
+appendix
+breast; glandular cells[≥Medium]
+placenta; trophoblastic cells[≥Medium]
+cytoplasm
+vesicle
+extracellular exosome
+extracellular space
+extracellular vesicle
+extracellular organelle
+extracellular membrane-bounded organelle
+CX3C chemokine receptor binding
+XRCC1-LIG3-PNK-TDP1 complex
+cytoplasm
+cytoskeleton
+microtubule cytoskeleton
+cell projection
+extracellular region
+vesicle
+Base excision repair
+negative regulation of protein localization to cell surface
+DNA metabolic process
+regulation of microvillus assembly
+regulation of cellular component organization
+regulation of DNA metabolic process
+postsynaptic actin cytoskeleton
+nuclear chromosome
+nucleoplasm
+postsynaptic cytoskeleton
+cytosol
+cytoskeleton
+cytoplasm
+nuclear lumen
+replication fork protection complex
+condensed chromosome
+chromosome
+positive regulation of cellular process
+positive regulation of biological process
+organonitrogen compound catabolic process
+cytoplasm
+intracellular anatomical structure
+cell projection
+cytosol
+vesicle
+protein binding
+small molecule binding
+GSK3B-HSP90AA1-PKM2 complex
+secondary heart field specification
+anatomical structure development
+regulation of cell development
+membrane
+nucleoplasm
+Factor: LTF; motif: GKVACTTNC; match class: 1
+C-terminal protein amino acid modification
+cytoplasm
+cytosol
+intracellular anatomical structure
+endomembrane system
+organelle
+organelle membrane
+ion binding
+small molecule binding
+ovary; ovarian stroma cells[≥Low]
+bone marrow
+bone marrow; hematopoietic cells[≥Low]
+pancreas; exocrine glandular cells[≥Medium]
+Factor: GABPalpha_GABPbeta; motif: CTTCCKGY
+Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN; match class: 1
+Factor: SAP-1a; motif: NACCGGAAGTV
+Factor: GABP-alpha; motif: NRCCGGAAGTN
+Factor: ER81; motif: NACCGGAAGTN
+Factor: GABP-alpha; motif: NACCGGAAGTN
+Factor: ER81; motif: NACCGGAAGTN
+Factor: Net; motif: NRCCGGAAGTN
+Factor: ZF5; motif: GSGCGCGR; match class: 1
+regulation of cilium assembly
+vesicle
+cytoplasm
+Factor: BEN; motif: CAGCGRNV; match class: 1
+Factor: E2F-3; motif: GGCGGGN
+Factor: E2F-3:HES-7; motif: NNNSGCGCSNNNNNCRCGYGNN; match class: 1
+Factor: ZF5; motif: NRNGNGCGCGCWN
+Factor: MOVO-B; motif: GNGGGGG; match class: 1
+Factor: E2F4; motif: YCCCGCCNCNNSSNNSNN; match class: 1
+Factor: E2F-4; motif: SNGGGCGGGAANN
+Factor: RNF96; motif: BCCCGCRGCC
+Factor: E2F-2; motif: GCGCGCGCNCS
+Factor: FXR; motif: NRGGKCANTGRCCNNNNGG
+Factor: RNF96; motif: BCCCGCRGCC; match class: 1
+Factor: E2F-1; motif: NNNNGGCGGGAARN
+Factor: IRX-1; motif: NACRYNNNNNNNNRYGNN; match class: 1
+Factor: E2F-2; motif: GCGCGCGCNCS; match class: 1
+Factor: TAFII250; motif: RARRWGGCGGMGGNGR
+Factor: Churchill; motif: CGGGNN; match class: 1
+developmental process
+anatomical structure development
+macromolecule modification
+cytoplasm
+vesicle membrane
+bounding membrane of organelle
+protein binding
+transferase activity
+protein serine kinase activity
+adenyl ribonucleotide binding
+protein kinase activity
+ATP binding
+adenyl nucleotide binding
+Factor: BTEB3; motif: CCNNSCCNSCCCCKCCCCC
+Factor: BTEB4; motif: NCCACGCCCM; match class: 1
+Factor: RNF96; motif: BCCCGCRGCC; match class: 1
+Factor: ETF; motif: GVGGMGG; match class: 1
+Factor: ZNF670; motif: SNGGGCRGRG; match class: 1
+Factor: Sp1; motif: CCCCGCCCCN
+Factor: GKLF; motif: NNCCMCRCCCN
+Factor: KLF15; motif: RCCMCRCCCMCN
+Factor: GKLF; motif: NNCCMCRCCCN; match class: 1
+Factor: TIEG1; motif: NCCCNSNCCCCGCCCCC; match class: 1
+Factor: SP1; motif: NCCCCKCCCCC
+Factor: WT1; motif: GNGGGGGCGGGG
+Factor: sp4; motif: NNGNARGRGGCGGRGCNNRR; match class: 1
+Factor: SP1; motif: GGGGYGGGGNS
+Factor: TIEG1; motif: NCCCNSNCCCCGCCCCC
+Factor: AP-2rep; motif: NGGGGCGGGGC
+Factor: Sp3; motif: GGGGCGGGGSNN; match class: 1
+Factor: BTEB2; motif: GCCCCRCCCH
+Factor: Sp3; motif: GGGGCGGGGSNN
+Factor: Sp1; motif: NNGGGGCGGGGNN
+Factor: SP1; motif: RCCMCRCCCMC
+Factor: Sp2; motif: GGGGCGGGG
+Factor: Sp1; motif: NNGGGGCGGGGNN; match class: 1
+Factor: BTEB1; motif: GGGGGCGGGGCNGSGGGNGS
+Factor: BTEB3; motif: CCNNSCCNSCCCCKCCCCC; match class: 1
+Factor: BTEB4; motif: NCCACGCCCM
+Factor: Sp1; motif: GGGGCGGGGT; match class: 1
+Factor: Sp1; motif: GGGGCGGGGC
+Factor: Sp1; motif: GGGGCGGGGC; match class: 1
+Factor: SP1; motif: GGCCCCGCCCCCN
+Factor: Sp1; motif: NGGGGGCGGGGYN; match class: 1
+positive regulation of biological process
+response to stimulus
+cytoplasm
+cytoplasm
+cytosol
+peptide hormone receptor binding
+hormone receptor binding
+CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity
+mu-type opioid receptor binding
