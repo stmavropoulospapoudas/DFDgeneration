@@ -70,7 +70,7 @@ dfd_Cluster <- function(genome_cover_percentage,avg_dfd_length,avg_genes_per_dfd
       library("ROCit")
       library(tsne)
       ####Collapse matrix with tsne
-      data_overlap <-read.delim(dfds_overlap, sep=" ")
+      data_overlap <-read.delim(dfds_overlap, sep=" ", header = F)
       tsne_overlap = tsne(data_overlap, initial_config = NULL, k = 3,initial_dims = dim(data_overlap[1]), perplexity = 35)
       data_all_model <- data.frame(cbind(genome_cover_percentage,avg_dfd_length,avg_genes_per_dfd, tsne_overlap,type_of_tissue))
       colnames(data_all_model)[length(data_all_model)] = "type_of_tissue"
