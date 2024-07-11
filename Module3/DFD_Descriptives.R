@@ -57,6 +57,7 @@ DFD_descriptives <- function(num_of_experiments, chrom_length_path, chromosome_l
   dfd_num = dfd_num[dfd_num!=0]
   gene_number = gene_number[gene_number!=0]
   avg_genes_per_dfd = gene_number / dfd_num
+  #tot_chrom_cover_percentage = tot_chrom_cover_percentage[-1,]
   
   summary(dfd_num)
   filename_hist1 = paste0(plot_path,"DFD_per_experiment_histogram.png")
@@ -91,6 +92,8 @@ DFD_descriptives <- function(num_of_experiments, chrom_length_path, chromosome_l
   data2 = data2[,-1]
   gene_number <- vector(mode="integer", length = num_of_experiments)
   deg_number <- vector(mode="integer", length = num_of_experiments)
+  up_deg_number <- vector(mode="integer", length = num_of_experiments)
+  down_deg_number <- vector(mode="integer", length = num_of_experiments)
   dfd_number <- vector(mode="integer", length = num_of_experiments)
   for(i in seq(1,num_of_experiments,1))
   {
@@ -102,30 +105,70 @@ DFD_descriptives <- function(num_of_experiments, chrom_length_path, chromosome_l
     GO_total = c()
     gene_list <- list()
     DEGS_list <- list()
+    up_DEGS_list <- list()
+    down_DEGS_list <- list()
     for(j in seq(1,length(data$start),1))
     {
+      DEGs = c()
+      up_DEGs = c()
+      down_DEGs = c()
       #isolate DEGS
       #data2[,i] = data2[,i][abs(data2[,i] ) >= 1.5]
       dfd_number[i] = length(data$start)
       DEGs_index = intersect(seq(data$start[j],data$end[j],1),which(abs(data2[,i]) >= deg_threshold))
+      up_DEGs_index = intersect(seq(data$start[j],data$end[j],1),which(data2[,i] >= deg_threshold))
+      down_DEGs_index = intersect(seq(data$start[j],data$end[j],1),which(data2[,i] <= -deg_threshold))
       genes_index = seq(data$start[j],data$end[j],1)
       if(length(DEGs_index) > 0)
       {
-        DEGs = data2$gene_name[DEGs_index[1]:DEGs_index[length(DEGs_index)]] 
+        DEGs = data2$gene_name[DEGs_index] 
       }
-      genes = data2$gene_name[genes_index[1]:genes_index[length(genes_index)]]
+      if(length(up_DEGs_index) > 0)
+      {
+        up_DEGs = data2$gene_name[up_DEGs_index]
+      }
+      if(length(down_DEGs_index) > 0)
+      {
+        down_DEGs = data2$gene_name[down_DEGs_index]
+      }
+      if(length(DEGs) != length(up_DEGs) + length(down_DEGs))
+      {
+        print("problem")
+        print(j)
+        print(length(DEGs))
+        print(length(up_DEGs))
+        print(length(down_DEGs))
+      }
+      genes = data2$gene_name[genes_index]
       gene_list = append(gene_list,genes)
-      DEGS_list = append(DEGS_list,DEGs)
+      if(length(DEGs) > 0)
+      {DEGS_list = append(DEGS_list,DEGs)}
+      if(length(up_DEGs) > 0)
+      {up_DEGS_list = append(up_DEGS_list,up_DEGs)}
+      if(length(down_DEGs) > 0)
+      {down_DEGS_list = append(down_DEGS_list,down_DEGs)}
     }
     gene_list = unlist(gene_list)
     DEGS_list = unlist(DEGS_list)
+    DEGS_list = DEGS_list[is.na(DEGS_list) == FALSE]
+    up_DEGS_list = unlist(up_DEGS_list)
+    up_DEGS_list = up_DEGS_list[is.na(up_DEGS_list) == FALSE]
+    down_DEGS_list = unlist(down_DEGS_list)
+    down_DEGS_list = down_DEGS_list[is.na(down_DEGS_list) == FALSE]
     gene_number[i] = length(gene_list)
     deg_number[i] = length(DEGS_list)
+    up_deg_number[i] = length(up_DEGS_list)
+    down_deg_number[i] = length(down_DEGS_list)
   }
+  #dfd_number = dfd_number[-1]
+  #deg_number = deg_number[-1]
+  #gene_number = gene_number[-1]
   
   summary(dfd_number)
   summary(gene_number)
   summary(deg_number)
+  summary(up_deg_number)
+  summary(down_deg_number)
   ###VALUES TO BE RETURNED
   dfd_num = dfd_number
   deg_num = deg_number
